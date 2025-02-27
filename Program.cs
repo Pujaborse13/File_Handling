@@ -9,7 +9,50 @@ namespace File_IO
   {
     static void Main(string[] args)
     {
-            
+            // JSON File Operations
+
+            JSONFileOperations jfo1 = new JSONFileOperations();
+            jfo1.CreateFile();
+
+            JSONFileOperations jfo2 = new JSONFileOperations();
+            jfo2.JSONWrite();
+
+            JSONFileOperations jfo3 = new JSONFileOperations();
+            jfo3.JSONReadLines();
+
+            JSONFileOperations jf04 = new JSONFileOperations();
+            jf04.CopyJSONFile();
+
+            JSONFileOperations jf05 = new JSONFileOperations();
+            jf05.DeleteCSVFile();
+            //_______________________________________________________
+            //CSV file Operations
+            /*
+            CSVFileOperations emp1 = new CSVFileOperations();
+            emp1.CreateFile();
+
+            CSVFileOperations emp2 = new CSVFileOperations();
+            emp2.CSVWrite();
+
+            CSVFileOperations emp3 = new CSVFileOperations();
+            emp3.CSVRead();
+
+            CSVFileOperations emp4 = new CSVFileOperations();
+            emp4.CopyCSVFile();
+
+            CSVFileOperations emp5 = new CSVFileOperations();
+            emp5.DeleteCSVFile();
+
+            CSVFileOperations jf06 = new CSVFileOperations();
+            jf06.AppendCSVData();
+
+            CSVFileOperations jf07 = new CSVFileOperations();
+            jf07.SearchEmployee(103);
+            */
+            //_______________________________________________________
+
+
+            /*
             //File Exist or not
             FileOperations fe = new FileOperations();
             fe.FileExsitsOrNot();
@@ -67,8 +110,14 @@ namespace File_IO
 
             FileOperationsAdvance foa12 = new FileOperationsAdvance();
             foa12.GetAllFilesinDirectory();
+            */
+
+
+
+
+
 
 
         }
-      }
+    }
 }
