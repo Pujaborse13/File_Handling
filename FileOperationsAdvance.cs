@@ -150,8 +150,7 @@ namespace File_IO
         }
 
 
-        //Delete Directory
-
+        //Delete Directory 
         public void DeleteDirectory()
         {
             Directory.Delete(@"D:\AcessMeditech\File-IO\File-IO\NewFolder", true); // 'true' deletes non-empty directories
@@ -169,7 +168,6 @@ namespace File_IO
             {
                 Console.WriteLine(file);
             }
-
         }
 
 

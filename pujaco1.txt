@@ -1,0 +1,2 @@
+Hello, this is a sample text using WriteAllText.
+This is appended text in okk file.

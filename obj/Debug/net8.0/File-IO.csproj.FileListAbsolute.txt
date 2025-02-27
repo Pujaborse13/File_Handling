@@ -1,0 +1,14 @@
+D:\AcessMeditech\File-IO\File-IO\bin\Debug\net8.0\File-IO.exe
+D:\AcessMeditech\File-IO\File-IO\bin\Debug\net8.0\File-IO.deps.json
+D:\AcessMeditech\File-IO\File-IO\bin\Debug\net8.0\File-IO.runtimeconfig.json
+D:\AcessMeditech\File-IO\File-IO\bin\Debug\net8.0\File-IO.dll
+D:\AcessMeditech\File-IO\File-IO\bin\Debug\net8.0\File-IO.pdb
+D:\AcessMeditech\File-IO\File-IO\obj\Debug\net8.0\File-IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\AcessMeditech\File-IO\File-IO\obj\Debug\net8.0\File-IO.AssemblyInfoInputs.cache
+D:\AcessMeditech\File-IO\File-IO\obj\Debug\net8.0\File-IO.AssemblyInfo.cs
+D:\AcessMeditech\File-IO\File-IO\obj\Debug\net8.0\File-IO.csproj.CoreCompileInputs.cache
+D:\AcessMeditech\File-IO\File-IO\obj\Debug\net8.0\File-IO.dll
+D:\AcessMeditech\File-IO\File-IO\obj\Debug\net8.0\refint\File-IO.dll
+D:\AcessMeditech\File-IO\File-IO\obj\Debug\net8.0\File-IO.pdb
+D:\AcessMeditech\File-IO\File-IO\obj\Debug\net8.0\File-IO.genruntimeconfig.cache
+D:\AcessMeditech\File-IO\File-IO\obj\Debug\net8.0\ref\File-IO.dll
